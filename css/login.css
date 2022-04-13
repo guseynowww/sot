@@ -1,0 +1,80 @@
+#logo {
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 150px;
+}
+
+body {
+    background-color: #B5CCE3;
+}
+
+.autorization {
+    width: 400px;
+    height: 250px;
+    background-color: #ffffff;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 50px;
+    border-radius: 20px;
+}
+
+.autorization > form {
+    padding-top: 25px;
+    margin-left: 30px;
+}
+
+.autorization > form > b {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 19px;
+    
+    color: #0E1A25;
+}
+
+.autorization > form > .form_pass > b {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 19px;
+    color: #0E1A25;
+}
+
+.input {
+    width: 340px;
+    height: 40px;
+    background: #FFFFFF;
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin-top: 8px;
+}
+
+.pass {
+    margin-top: 20px;
+}
+
+.form_pass {
+    margin-top: 20px;
+}
+
+.form_btn {
+    width: 106px;
+    height: 40px;
+    background: #396693;
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin-top: 15px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    cursor: pointer;
+    color: #DAE6F1;
+}
+
+.form_btn:hover {
+    background: #1C334A;
+}
